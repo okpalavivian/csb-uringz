@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://okpalavivian.github.io/csb-uringz/static/css/main.abc606c0.chunk.css",
+    "main.js": "https://okpalavivian.github.io/csb-uringz/static/js/main.6f93fedd.chunk.js",
+    "main.js.map": "https://okpalavivian.github.io/csb-uringz/static/js/main.6f93fedd.chunk.js.map",
+    "runtime-main.js": "https://okpalavivian.github.io/csb-uringz/static/js/runtime-main.87c3d123.js",
+    "runtime-main.js.map": "https://okpalavivian.github.io/csb-uringz/static/js/runtime-main.87c3d123.js.map",
+    "static/js/2.65823706.chunk.js": "https://okpalavivian.github.io/csb-uringz/static/js/2.65823706.chunk.js",
+    "static/js/2.65823706.chunk.js.map": "https://okpalavivian.github.io/csb-uringz/static/js/2.65823706.chunk.js.map",
+    "index.html": "https://okpalavivian.github.io/csb-uringz/index.html",
+    "static/css/main.abc606c0.chunk.css.map": "https://okpalavivian.github.io/csb-uringz/static/css/main.abc606c0.chunk.css.map",
+    "static/js/2.65823706.chunk.js.LICENSE.txt": "https://okpalavivian.github.io/csb-uringz/static/js/2.65823706.chunk.js.LICENSE.txt",
+    "static/media/home1.abbdaf96.png": "https://okpalavivian.github.io/csb-uringz/static/media/home1.abbdaf96.png",
+    "static/media/img2.af497074.jpg": "https://okpalavivian.github.io/csb-uringz/static/media/img2.af497074.jpg",
+    "static/media/img4.01713cd6.jpg": "https://okpalavivian.github.io/csb-uringz/static/media/img4.01713cd6.jpg",
+    "static/media/me.96fd1684.png": "https://okpalavivian.github.io/csb-uringz/static/media/me.96fd1684.png",
+    "static/media/message.f7c34c5b.png": "https://okpalavivian.github.io/csb-uringz/static/media/message.f7c34c5b.png",
+    "static/media/moon.7d754191.png": "https://okpalavivian.github.io/csb-uringz/static/media/moon.7d754191.png",
+    "static/media/phone.4e419d67.png": "https://okpalavivian.github.io/csb-uringz/static/media/phone.4e419d67.png",
+    "static/media/sun.703b13c8.png": "https://okpalavivian.github.io/csb-uringz/static/media/sun.703b13c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87c3d123.js",
+    "static/js/2.65823706.chunk.js",
+    "static/css/main.abc606c0.chunk.css",
+    "static/js/main.6f93fedd.chunk.js"
+  ]
+}
